@@ -18,12 +18,12 @@ timezone: Asia/Ho_Chi_Minh
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ..... # the main title
+title: Green Onions # the main title
 
-tagline: ....  # it will display as the sub-title
+tagline: Green Onions  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  I have a shell for you.
+  CTF and Security Researching Team
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://greenonions1337.github.io"
 
