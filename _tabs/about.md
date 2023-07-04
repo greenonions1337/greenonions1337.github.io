@@ -17,6 +17,7 @@ CTF and Security Researching Team
 - **Robbert1978** (Github: https://github.com/robbert1978)
 - **Shin24** (Github: https://github.com/CP04042K)
 - **Tranminhprvt01** (Github: https://github.com/tranminhprvt01)
+- **dr34m02** (Github: https://github.com/MonteCoritto)
 
 # 🏆 Achievements
 - Top **#9** PicoCTF 2023 (Undergraduate Students Scoreboard)
