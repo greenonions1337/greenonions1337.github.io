@@ -20,3 +20,7 @@ CTF and Security Researching Team
 
 # 🏆 Achievements
 - Top **#9** PicoCTF 2023 (Undergraduate Students Scoreboard)
+- Top **#2** KCSCCTF 2023
+- Top **#6** HCMUS Final 2023 (Copper medal)
+- Top **#9** RITSEC CTF 2023
+- Top **16** SEETF 2023
